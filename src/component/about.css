@@ -1,0 +1,76 @@
+.aboutcont{
+    display: flex;
+    /* margin-top: 400px; */
+    border: 10px;
+    border-radius: 20px;
+    text-align: center;
+  
+}
+.aboutcont img{
+    height: 330px;
+ }  
+
+ .dad
+ {
+    margin-left: 100px;
+    font-weight: 900;
+    font-size: larger;
+ }
+ 
+ .cont img{
+    height: 10px;
+ }
+ .heee
+ {
+    /* background-image: url(""); */
+    /* background-color:grey; */
+ }
+ 
+ .change
+ {
+   background-image: url("https://images.pexels.com/photos/2246476/pexels-photo-2246476.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+   /* height: 100vh; */
+   color:white;
+    margin-top: -40px;
+    padding-top: 500px;
+    text-align: center;
+    padding-bottom:20px ;
+    width: 900px;
+    /* height: 10vh; */
+
+    margin: auto;
+    max-width: 900px;
+    margin-top:20px;
+
+ }
+
+ /* #chan
+ {
+   padding-bottom: -1100px; 
+ } */
+
+ .arrangement
+ {
+   width: 900px;
+   height: 1650px;
+   /* border: 5px solid; */
+   /* display: flex; */
+   flex-direction: column;
+   /* align-items: center; */
+   justify-content:center;
+
+   margin: auto;
+   max-width: 900px;
+   margin-top:20px;
+   /* padding: 8px; */
+   border-radius: 30px;
+   
+ }
+ #oo
+ {
+   font-weight:500;
+   font-size:x-large;
+   word-spacing: 3px;
+   margin-left: 30px;
+ }
+ 

@@ -1,0 +1,74 @@
+*
+{
+    list-style: none;
+}
+.navbar
+{
+    height: 48px;
+    /* font-size:5]5px; */
+    /* display: flex; */
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif
+    
+    
+}
+.navbar-nav
+{
+    word-spacing: 20px;
+
+    
+}
+.d-flex
+{
+    /* margin-bottom: 50px; */
+    padding-left: 550px;
+    padding-right: 450px;
+
+    display: flex;
+   
+}
+/* .login
+{
+     /* padding-left: 1000px;  */
+    /* margin-left: 120px; */
+    /* display: flex;
+    width: 100%;
+    justify-content: end;
+  
+}
+
+ .kas
+{
+    display: flex;
+    width: 100%;
+    justify-content: end;
+} 
+/* .kas .login{
+    display: flex;
+    width: 100%;
+    justify-content: end; */ 
+/* } */
+
+.kas
+{
+    display: flex;
+    width: 100%;
+    justify-content: end;
+}
+
+#Hi{
+    /* background-color: aqua; */
+    width: 100%;
+    word-spacing: 10px;
+}
+.logo1
+{
+    font-size: 35px;
+    margin-top: 10px;
+    margin-left: 30px;
+    display: flex;
+}
+#margin
+{
+    margin-left: 10px;
+}

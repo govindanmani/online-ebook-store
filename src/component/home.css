@@ -1,0 +1,144 @@
+/* 
+.fix
+{
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    border: 20px;
+   
+}
+.cont
+{
+    height: 500px;
+    width:100%;
+    /* background-color:red; */
+    /* color:black; */
+    /* size: 100%;
+    border: 200px;
+    margin-left: 100px;
+    gap: 20px;
+    column-gap: 20px;
+    font-weight:500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+} */
+/* .
+{
+   display: grid;
+   grid-template-columns: 2fr 2fr;
+} */ */
+
+
+.continer5
+{
+    /* background-color:gray; */
+    padding: 15px 9%;
+    padding-bottom: 100px;
+    width: 100%;
+}
+#ff
+{
+   margin-left: 80px;
+   /* color:aqua; */
+   color: black;
+   padding-top: 10px;
+   
+}
+.imh
+{
+    /* margin-bottom: 500px; */
+    padding-left: 100px;
+    color:lavenderblush;
+    
+}
+
+ .fix
+{
+    /* background-color: aqua; */
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(270px,1fr));
+    gap:30px;
+    /* width: 80%; */
+
+}
+.fix .cont{
+ box-shadow: 0 5px 10px rgpa(0,0,0,0.2);
+ border-radius: 5px;
+ background-color:white;
+ text-align: center;
+ padding: 30px 20px;
+}
+.fix .cont img{
+    height: 200px;
+    /* width: 200px; */
+}
+.fix .cont h3{
+    color:black;
+    /* color:white; */
+    font-size: 42px;
+    padding: 10px 0;
+}
+.fix .cont p{
+    color: black;
+    /* color: white; */
+    font-size: 22px;
+    padding: 10px 0;
+    line-height: 1.8;
+}
+
+#ee
+{
+    height: 700px;
+    width: 100%;
+}
+.cont
+{
+    border:1px solid black;
+    border-radius: 50px;
+    /* width: 500px; */
+
+    /* gap: 50px; */
+
+}
+.bg_color
+{
+    background-color: rgb(210, 207, 207);
+
+}
+.image-content
+{
+     /* background-image: url(imgaMerroy.jpg); */
+     background-image: url("https://images.pexels.com/photos/2041540/pexels-photo-2041540.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+     height: 90vh;
+     
+    /* background-color: chocolate; */
+}
+/* 
+/* .d-flex */
+    /*{ padding-right: 250px; */
+    /* width: 100%; */
+    /* padding: 500px; } */
+/* 
+/* #bottom
+{
+    margin-top: -22px;
+    margin-bottom: 500px;
+    padding-bottom: 500px;
+} */ */
+.dd
+{
+    
+    padding-top: 85px;
+    word-spacing: 5px;
+    line-height: 10px;
+}
+.ss
+{
+    padding-top: 105px;
+
+}
+#bottom
+{
+    margin-top: -22px;
+    margin-bottom: 500px;
+    padding-bottom: 500px;
+}

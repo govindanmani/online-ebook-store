@@ -1,0 +1,58 @@
+.contact
+{
+
+
+    width: 900px;
+    height: 1600px;
+    /* border: 5px solid; */
+    /* display: flex; */
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content:center;
+ 
+    margin: auto;
+    max-width: 900px;
+    margin-top:20px;
+    /* padding: 8px; */
+    border-radius: 30px;
+}
+.getinput
+{
+    /* width: 20px; */
+    margin-top: 20px;
+}
+#boldd
+{
+    font-size: larger;
+    font-weight: bold;
+}
+#input
+{
+    width: 90%;
+    /* border: 200px; */
+    /* height: 40px; */
+}
+.gr-dropdown u-fullWidth
+{
+    width: 100%;
+}
+#contact_question_type
+{
+    width: 70%;
+    height: 40px;
+}
+#send
+{
+    border-radius: 10px;
+    width: 80px;
+    height: 40px;
+    font-size: larger;
+    background-color:crimson;
+    /* background-color:orange; */
+    
+}
+#send:hover
+{
+    background-color:orange;
+
+}

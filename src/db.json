@@ -1,0 +1,86 @@
+{
+  "user": [
+    {
+      "username": "mani",
+      "id": 1
+    },
+    {
+      "username": "mani@",
+      "id": 2
+    },
+    {
+      "username": "mani@gmail.com",
+      "id": 3
+    },
+    {
+      "username": "nagarjun",
+      "id": 4
+    },
+    {
+      "username": "nagarjun",
+      "id": 5
+    },
+    {
+      "username": "nagarjun@gmail.com",
+      "password": "manikannan",
+      "id": 6
+    },
+    {
+      "username": "kannan@gmail.com",
+      "password": "kannan",
+      "id": 7
+    },
+    {
+      "username": "rtyu",
+      "password": "fgh",
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "username": "nagarjun@gmail.com",
+      "password": "123456",
+      "id": 13
+    },
+    {
+      "username": "manikannan",
+      "password": "mani",
+      "id": 14
+    },
+    {
+      "username": "manikannan",
+      "password": "mani@gmail.com",
+      "id": 15
+    }
+  ],
+
+  "CartItem":{
+    "id": 1,
+      "Item": [
+        {
+          "image": "https://image.ebooks.com/cover/210769655.jpg?width=332&height=500&quality=85",
+          "Rs": "3000",
+          "heading": "‘Its portrait of the tech maverick is fascinating. . . Isaacson’s account of rolling crises over rocket engines and car designs are vivid and pacy, and his analysis of his subject’s personality is a persuasive mixture ",
+          "Quantity": 3
+        },
+        {
+          "id":2,
+          "image":"https://unescobmw.org/wp-content/uploads/2021/10/b1.jpg",
+          "Rs":"5000",
+          "heading":"We all go through a culmination of rough times to finally learn about ourselves and life as a precious gift. ",
+          "Quantity":3
+
+        }
+      ]
+  }
+}
